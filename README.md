@@ -2,8 +2,8 @@
 Analyzed restaurant order data using SQL to identify sales trends, customer behavior, and top-performing menu items. The project focuses on extracting meaningful insights to support business decisions.
 
 # Tools Used
-MySQL
-Database Management
+* MySQL
+* Database Management
 
 # Key Analysis Performed
 * Identified top-selling and least-selling menu items
